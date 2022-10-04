@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jamiboi
-- 👀 I’m interested in web developping 
-- 🌱 I’m currently learning javascript 
+- 👀 I’m interested in web developping and data analyst 
+- 🌱 I’m currently learning javascript, sql and tableau
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me www.linkedin.com/in/janu-micheal-567705174
 
