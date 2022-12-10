@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jamiboi
+- 👋 Hi, I’m Jamiboi
 - 👀 I’m interested in web developping and data analyst 
 - 🌱 I’m currently learning javascript, sql and tableau
 - 💞️ I’m looking to collaborate on ...
